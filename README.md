@@ -1,6 +1,6 @@
 # Data-Analysis
 This is a repository for storing some data analysis projects.
-
+**
 针对房天下二手房数据（约 10.6 万条），独立设计并执行端到端数据分析流程：
   1. 数据清洗：缺失值剔除、重复项去除、字符串字段数值化（面积 / 价格 / 单价 / 年份），IQR 异常值过滤
   2. 特征工程：基于正则提取卧室/客厅数，构造楼龄、楼层类型、直辖市标识、价格分段等衍生特征
